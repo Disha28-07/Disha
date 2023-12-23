@@ -1,3 +1,3 @@
 # Disha
 This is my first Git Repository
-Author-Disha
+Author-Disha (Dighe)
